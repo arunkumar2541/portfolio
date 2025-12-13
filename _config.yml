@@ -1,4 +1,4 @@
-title: Arunkumar Parameswaran
+title:""
 description: Data Analyst | SQL | Power BI | Python
 
 url: "https://arunkumar2541.github.io"
@@ -27,4 +27,4 @@ navigation:
     url: /projects/
   - title: "About"
     url: /about/
-    minimal_mistakes_skin: "mint"
+    minimal_mistakes_skin: "contrast"

@@ -7,3 +7,9 @@
 .site-title {
   display: none !important;
 }
+
+/* Make profile image circular */
+.author__avatar img {
+  border-radius: 50% !important;
+  object-fit: cover;
+}

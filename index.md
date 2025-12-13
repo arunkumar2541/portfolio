@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Arunkumar Parameswaran"
+title: ""
 permalink: /
 author_profile: true
 header:

@@ -1,0 +1,29 @@
+title: Arunkumar Parameswaran
+description: Data Analyst | SQL | Power BI | Python
+
+url: "https://arunkumar2541.github.io"
+baseurl: "/portfolio"
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Arunkumar Parameswaran"
+  avatar: "/images/arun-photo.jpg"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/

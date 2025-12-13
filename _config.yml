@@ -27,4 +27,4 @@ navigation:
     url: /projects/
   - title: "About"
     url: /about/
-    minimal_mistakes_skin: "air"
+    minimal_mistakes_skin: "mint"

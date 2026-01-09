@@ -40,16 +40,26 @@ Forage consulting simulation focused on digital transformation scenarios.
 ## MSc Project – Viral Dynamics Simulation (Aston University)
 
 **Problem:**  
-Large-scale molecular simulation data required automated analysis to assess stability and interaction behaviour in a viral system.
+Large-scale molecular simulation data required automated analysis to assess system stability and interaction behaviour.
 
 **What I did:**
-- Processed and analysed 50GB+ of simulation output data using Python
-- Built automated pipelines for RMSD, RMSF, and stability analysis
-- Validated results using statistical measures and visual diagnostics
-- Worked with high-performance computing outputs and structured large datasets for analysis
+- Processed and analysed 50GB+ of molecular simulation output data using Python
+- Built automated pipelines for RMSD-based stability analysis
+- Applied statistical validation and visual diagnostics to interpret results
+- Structured and analysed data generated from high-performance computing runs
+
+### Selected visuals
+
+**Simulation stability (RMSD analysis):**
+
+![RMSD stability analysis of protein–ligand system](assets/images/msc-rmsd.png)
+
+**Protein–ligand interaction snapshot:**
+
+![Molecular dynamics simulation snapshot](assets/images/msc-simulation.png)
 
 **Outcome:**  
-Improved reliability and repeatability of simulation analysis, enabling faster interpretation of complex molecular dynamics data.
+Improved reliability and repeatability of complex simulation analysis, enabling faster and more confident interpretation of results.
 
 **Evidence:**  
 - [Final Dissertation (PDF)](assets/Dissertation.pdf)

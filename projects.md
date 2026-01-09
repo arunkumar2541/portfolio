@@ -52,15 +52,11 @@ Large-scale molecular simulation data required automated analysis to assess syst
 
 **Simulation stability (RMSD analysis):**
 
-![RMSD stability analysis of protein–ligand system](assets/images/msc-rmsd.png)
-
-**Protein–ligand interaction snapshot:**
-
-![Molecular dynamics simulation snapshot](assets/images/msc-simulation.png)
-
 <p align="center">
   <img src="assets/images/msc-rmsd.png" alt="RMSD stability analysis" width="800">
 </p>
+
+**Protein–ligand interaction snapshot:**
 
 <p align="center">
   <img src="assets/images/msc-simulation.png" alt="Simulation snapshot" width="800">

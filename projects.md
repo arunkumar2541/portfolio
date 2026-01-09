@@ -14,7 +14,7 @@ Forage virtual job simulation based on real-world Accenture analytics case scena
 - Presented insights in a client-style format
 
 **Evidence:**  
-- [Forage Certificate – Data Analytics & Visualisation](assets/Data Analytics and Visualization Job Simulation certificate.pdf)
+- [Forage Certificate – Data Analytics & Visualisation](assets/Certification/Data Analytics and Visualization Job Simulation certificate.pdf)
 
 **Tools:** Power BI, SQL concepts, data modelling, data storytelling
 ---
@@ -31,7 +31,7 @@ Forage consulting simulation focused on digital transformation scenarios.
 - Applied prioritisation and impact assessment techniques
 
 **Evidence:**  
-- [Forage Certificate – Consultant Simulation](assets/Consultant Job Simulation certificate.pdf)
+- [Forage Certificate – Consultant Simulation](assets/Certification/Consultant Job Simulation certificate.pdf)
 
 **Skills:** Business analysis, UX analytics, prioritisation, stakeholder-style communication
 ---

@@ -58,6 +58,14 @@ Large-scale molecular simulation data required automated analysis to assess syst
 
 ![Molecular dynamics simulation snapshot](assets/images/msc-simulation.png)
 
+<p align="center">
+  <img src="assets/images/msc-rmsd.png" alt="RMSD stability analysis" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/images/msc-simulation.png" alt="Simulation snapshot" width="800">
+</p>
+
 **Outcome:**  
 Improved reliability and repeatability of complex simulation analysis, enabling faster and more confident interpretation of results.
 
